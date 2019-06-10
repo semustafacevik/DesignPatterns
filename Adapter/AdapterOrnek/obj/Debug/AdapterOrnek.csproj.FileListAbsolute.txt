@@ -1,0 +1,14 @@
+C:\Users\MustafaCevik\source\repos\AdapterOrnek\AdapterOrnek\bin\Debug\AdapterOrnek.exe.config
+C:\Users\MustafaCevik\source\repos\AdapterOrnek\AdapterOrnek\bin\Debug\AdapterOrnek.exe
+C:\Users\MustafaCevik\source\repos\AdapterOrnek\AdapterOrnek\bin\Debug\AdapterOrnek.pdb
+C:\Users\MustafaCevik\source\repos\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.csprojResolveAssemblyReference.cache
+C:\Users\MustafaCevik\source\repos\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.csproj.CoreCompileInputs.cache
+C:\Users\MustafaCevik\source\repos\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.exe
+C:\Users\MustafaCevik\source\repos\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.pdb
+C:\Users\MustafaCevik\source\repos\z_Trials\YazilimTasarimi\AdapterOrnek\AdapterOrnek\bin\Debug\AdapterOrnek.exe.config
+C:\Users\MustafaCevik\source\repos\z_Trials\YazilimTasarimi\AdapterOrnek\AdapterOrnek\bin\Debug\AdapterOrnek.exe
+C:\Users\MustafaCevik\source\repos\z_Trials\YazilimTasarimi\AdapterOrnek\AdapterOrnek\bin\Debug\AdapterOrnek.pdb
+C:\Users\MustafaCevik\source\repos\z_Trials\YazilimTasarimi\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.csprojAssemblyReference.cache
+C:\Users\MustafaCevik\source\repos\z_Trials\YazilimTasarimi\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.csproj.CoreCompileInputs.cache
+C:\Users\MustafaCevik\source\repos\z_Trials\YazilimTasarimi\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.exe
+C:\Users\MustafaCevik\source\repos\z_Trials\YazilimTasarimi\AdapterOrnek\AdapterOrnek\obj\Debug\AdapterOrnek.pdb

@@ -1,0 +1,7 @@
+C:\Users\MustafaCevik\source\repos\FactorySekilOrnek\FactorySekilOrnek\bin\Debug\FactorySekilOrnek.exe.config
+C:\Users\MustafaCevik\source\repos\FactorySekilOrnek\FactorySekilOrnek\bin\Debug\FactorySekilOrnek.exe
+C:\Users\MustafaCevik\source\repos\FactorySekilOrnek\FactorySekilOrnek\bin\Debug\FactorySekilOrnek.pdb
+C:\Users\MustafaCevik\source\repos\FactorySekilOrnek\FactorySekilOrnek\obj\Debug\FactorySekilOrnek.csprojResolveAssemblyReference.cache
+C:\Users\MustafaCevik\source\repos\FactorySekilOrnek\FactorySekilOrnek\obj\Debug\FactorySekilOrnek.csproj.CoreCompileInputs.cache
+C:\Users\MustafaCevik\source\repos\FactorySekilOrnek\FactorySekilOrnek\obj\Debug\FactorySekilOrnek.exe
+C:\Users\MustafaCevik\source\repos\FactorySekilOrnek\FactorySekilOrnek\obj\Debug\FactorySekilOrnek.pdb

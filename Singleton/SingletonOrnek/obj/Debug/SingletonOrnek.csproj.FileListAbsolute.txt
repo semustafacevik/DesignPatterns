@@ -1,0 +1,7 @@
+C:\Users\MustafaCevik\source\repos\SingletonOrnek\SingletonOrnek\bin\Debug\SingletonOrnek.exe.config
+C:\Users\MustafaCevik\source\repos\SingletonOrnek\SingletonOrnek\bin\Debug\SingletonOrnek.exe
+C:\Users\MustafaCevik\source\repos\SingletonOrnek\SingletonOrnek\bin\Debug\SingletonOrnek.pdb
+C:\Users\MustafaCevik\source\repos\SingletonOrnek\SingletonOrnek\obj\Debug\SingletonOrnek.csprojResolveAssemblyReference.cache
+C:\Users\MustafaCevik\source\repos\SingletonOrnek\SingletonOrnek\obj\Debug\SingletonOrnek.csproj.CoreCompileInputs.cache
+C:\Users\MustafaCevik\source\repos\SingletonOrnek\SingletonOrnek\obj\Debug\SingletonOrnek.exe
+C:\Users\MustafaCevik\source\repos\SingletonOrnek\SingletonOrnek\obj\Debug\SingletonOrnek.pdb
